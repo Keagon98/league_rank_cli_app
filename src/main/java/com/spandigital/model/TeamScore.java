@@ -1,4 +1,4 @@
-package com.spandigital.models;
+package com.spandigital.model;
 
 public final class TeamScore extends Team {
 
