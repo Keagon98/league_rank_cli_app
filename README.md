@@ -33,6 +33,8 @@ Lions 4, Grouches 0
     #### OR
    By downloading the zip folder
    > Click on the `Code` dropdown to find the above
+   ![get-project-code](https://github.com/user-attachments/assets/aaefcaa4-82b2-4cdb-b1e0-9b71dcfc78b0)
+   
 2. To run the Application on the CLI, do the following:
    > First navigate to the project folder on your machine using the terminal, then run...
    ```
@@ -48,6 +50,7 @@ Lions 4, Grouches 0
 Lions 3, Snakes 3
 Tarantulas 1, FC Awesome 0
 Lions 1, FC Awesome 1
+
 Tarantulas 3, Snakes 1
 Lions 4, Grouches 0
 ```
@@ -60,3 +63,4 @@ Lions 4, Grouches 0
 3. Snakes, 1 pt
 5. Grouches, 0 pts
 ```
+![app-output](https://github.com/user-attachments/assets/8731bc1f-b4ac-44b7-9196-e2f7ab63a079)
