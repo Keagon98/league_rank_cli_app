@@ -1,4 +1,4 @@
-package com.spandigital.models;
+package com.spandigital.model;
 
 public sealed abstract class Team implements Comparable<Team> permits TeamScore, TeamRank {
 
