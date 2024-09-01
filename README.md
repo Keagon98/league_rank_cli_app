@@ -1,5 +1,11 @@
 ## League Ranking CLI Application
 
+### Technologies used
+
+- Java 17 [Programming Language]
+- Maven [Java Build Tool]
+- JUnit [Java Testing Framework]
+
 ### Problem Statement
 
 > We want you to create a production ready, maintainable, testable command-line application that
